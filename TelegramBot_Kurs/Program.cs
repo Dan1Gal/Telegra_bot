@@ -19,7 +19,7 @@ namespace TelegramBot_Kurs
         static async Task Main(string[] args)
         {
 
-            var botClient = new TelegramBotClient("5896739007:AAHdIBkZ4yd-62mAE5j474CPxVJm-dfquV0");
+            var botClient = new TelegramBotClient("*токен бота*");
             using var cts = new CancellationTokenSource();
 
             var receiverOptions = new ReceiverOptions

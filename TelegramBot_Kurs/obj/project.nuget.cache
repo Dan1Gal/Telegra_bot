@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eT1Qf6Djqf/F7fCPHOH5YPexjeXsbjTQsnmGzB6fgC81oWSRmALAyMzXZbd6KqgJoqJciX5yL3PPWl0+ZrDgfQ==",
+  "dgSpecHash": "TNko48WtUL9MjZ6WlSTJI9vcaAim6LD7MMstBllJ9QMLxxxcUS3OoJUgZOB4oziOc6jR3wEEcz6UJ8b9wKi1Dg==",
   "success": true,
-  "projectFilePath": "D:\\ПСП\\TelegramBot_Kurs\\TelegramBot_Kurs\\TelegramBot_Kurs.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\OneDrive\\Документы\\GitHub\\Telegram_bot\\Telegra_bot\\TelegramBot_Kurs\\TelegramBot_Kurs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
