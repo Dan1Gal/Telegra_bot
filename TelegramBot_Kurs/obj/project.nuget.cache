@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eT1Qf6Djqf/F7fCPHOH5YPexjeXsbjTQsnmGzB6fgC81oWSRmALAyMzXZbd6KqgJoqJciX5yL3PPWl0+ZrDgfQ==",
+  "success": true,
+  "projectFilePath": "D:\\ПСП\\TelegramBot_Kurs\\TelegramBot_Kurs\\TelegramBot_Kurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
